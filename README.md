@@ -50,8 +50,8 @@ customer-segmentation-efa-kmeans/
 
 1. Clone this repository
 ```bash
-git clone https://github.com/jrph-data/customer-segmentation-efa-kmeans.git
-cd customer-churn-prediction
+!git clone https://github.com/jrph-data/customer-segmentation-efa-kmeans.git
+%cd customer-segmentation-efa-kmeans
 ```
 
 2. Install dependencies
