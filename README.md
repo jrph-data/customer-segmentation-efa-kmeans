@@ -11,8 +11,9 @@ A groceries firm's database is used to conduct a customer personality analysis t
 
 
 ## 🎯 Key Findings
-- Reduced data dimensionality to 4 factors through EFA that explains 64% of variance in purchasing behavior.
-- T
+- Reduced data dimensionality to 4 factors through EFA.
+- Identified three market segments through WCSS and Silhouette Score.
+- Segments were profiled using the mean of unscaled data where the most profitable are consumers with the highest income that does in-store and catalog purchases and barely browses online offerings.
 
 
 **Recommendation:** Feature full-priced premium products in catalogs and physical stores, while concentrating promotional campaigns and exclusive discounts on the website.
