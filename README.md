@@ -2,7 +2,7 @@
 
 A multivariate analysis project performing customer segmentation to optimize retail marketing strategies. This repository contains the technical execution and data preprocessing.
 
-**[Read the full business case study and insights on Notion](https://www.notion.so/347f24b0444b80d382c0e5d57a613f1c?source=copy_link)**
+**[Read the full business case study and insights on Notion]([https://www.notion.so/347f24b0444b80d382c0e5d57a613f1c?source=copy_link](https://app.notion.com/p/354f24b0444b80cb9c58c9fc70a42189?source=copy_link))**
 
 ---
 
